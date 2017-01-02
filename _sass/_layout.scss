@@ -1,4 +1,10 @@
 @charset "utf-8";
+
+body {
+  //clever scrollbar trick: http://stackoverflow.com/a/30293718
+  padding-left: calc(100vw - 100%);
+}
+
 main {
     max-width: 48rem;
     margin: 0 auto 3rem;
