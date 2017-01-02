@@ -16,4 +16,4 @@ date: "2017-01-02 03:00:00 +0000"
 
 ![spotted ratfish]({{site.baseurl}}/images/ratfish_RG.jpg)
 
-["Spotted Ratfish"]((https://www.flickr.com/photos/ratha/18638508729/)) by Ratha Grimes, 2015 ([CC BY  2.0](https://creativecommons.org/licenses/by/2.0/)).
+[*Spotted Ratfish*]((https://www.flickr.com/photos/ratha/18638508729/)) by Ratha Grimes, 2015 ([CC BY  2.0](https://creativecommons.org/licenses/by/2.0/)).
