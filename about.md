@@ -2,9 +2,10 @@
 layout:    page
 title:     About
 permalink: /about/
+published: false
 ---
 
-Vida is a minimalist jekyll theme.
+vida is a minimalist jekyll theme.
 
 - Author: Alex Sun
 - Email:  syaningv@gmail.com
