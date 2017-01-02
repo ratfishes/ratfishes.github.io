@@ -8,7 +8,9 @@ date: "2017-01-02 03:00:00 +0000"
 >
 >A blunt-nosed chimaera with rodent-like front teeth and a long, thin tail, found chiefly in cooler waters.
 
-[Oxford dictionary](https://en.oxforddictionaries.com/definition/ratfish)
+<cite>
+[Oxford Living  Dictionaries](https://en.oxforddictionaries.com/definition/ratfish)
+</cite>
 
 &nbsp;
 
