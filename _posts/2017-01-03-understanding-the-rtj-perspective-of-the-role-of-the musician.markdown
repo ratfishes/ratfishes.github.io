@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Run the Jewels EW interview"
+title: "Understanding the RTJ perspective of the role of the musician"
 date: "2017-01-03 17:31:02 +0000"
 ---
 
