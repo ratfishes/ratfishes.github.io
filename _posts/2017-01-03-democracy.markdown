@@ -12,7 +12,7 @@ In the introduction, Naam describes the debate over human enhancement and his ar
 2. Prohibition wouldn't work,
 3. individuals should be free to make this choice for themselves.
 
-In his third point, Naam writes that
+For his third point, Naam writes that
 
 >Western democracies are founded on the principle that governments exist to protect the freedoms of individuals.
 
