@@ -37,5 +37,7 @@ Molotov cocktails thrown in the air") and the sense of community of the song lyr
 Moreover, I think the interview reveals a mature perspective: neither El-P nor Killer Mike wants or expects their listeners to die in the streets to police gunfire. They use their art to describe the world they see, and make music to empower the listener.
 
 Killer Mike's stirringly describes his point of view on a panel at the All Black National Convention:
-<iframe width="768" height="432" src="https://www.youtube.com/embed/kM0wBiSGW-8" frameborder="0" allowfullscreen></iframe>
+
+<div class="videowrapper"><iframe width="768" height="432" src="https://www.youtube.com/embed/kM0wBiSGW-8" frameborder="0" allowfullscreen></iframe></div>
+
 He is not opposed to revolution, but he is realistic, and he wants us to take effective action, not to gesture and promote propaganda.
