@@ -9,7 +9,7 @@ I've been reading Ramez Naam's non-fiction book *More Than Human* (2005)[^1]. It
 In the introduction, Naam describes the debate over human enhancement and his arguments for encouraging and regulating human enhancement via e.g. gene therapy:
 
 1. It would improve human lives,
-2. Prohibiton wouldn't work,
+2. Prohibition wouldn't work,
 3. Human's should be free to make this choice for themselves.
 
 In his third point, Naam writes that
