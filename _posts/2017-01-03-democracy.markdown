@@ -10,7 +10,7 @@ In the introduction, Naam describes the debate over human enhancement and his ar
 
 1. It would improve human lives,
 2. Prohibition wouldn't work,
-3. Human's should be free to make this choice for themselves.
+3. individuals should be free to make this choice for themselves.
 
 In his third point, Naam writes that
 
