@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Understanding the RTJ perspective of the role of the musician"
+title: "Understanding the RTJ perspective of the role of the musici"
 date: "2017-01-03 17:31:02 +0000"
 ---
 
@@ -32,7 +32,7 @@ and ends with an insightful sample of Martin Luther King, Jr:
 >I think America must see that riots do not develop out of thin air. Certain conditions continue to exist in our society which must be condemned as vigorously as we condemn riots. But in the final analysis, a riot is the language of the unheard.
 
 On reflection, I think that the stronger, more violent language ("We put firearms in the air //
-Molotov cocktails thrown in the air") and the sense of community of the song lyrics is what provides strength to their message of personal empowerment. They face the unjustness of our system, optimistically imagine how it brings itself to ruin ("Look what you've done, you designed it"), and bring their rage as energy for the listener. It transcends generic feel-goodness by acknowledging the real obstacles people face and advocating for change anyway. "Swagger in the face of doom", as El-P writes.
+Molotov cocktails thrown in the air") of the lyrics along with their sense of community is what provides strength to their message of personal empowerment. They face the unjustness of our system, optimistically imagine how it brings itself to ruin ("Look what you've done, you designed it"), and bring their rage as energy for the listener. It transcends generic feel-goodness by acknowledging the real obstacles people face and advocating for change anyway. "Swagger in the face of doom", as El-P writes.
 
 Moreover, I think the interview reveals a mature perspective: neither El-P nor Killer Mike wants or expects their listeners to die in the streets to police gunfire. They use their art to describe the world they see, and make music to empower the listener.
 
