@@ -4,7 +4,7 @@ title: "Understanding the RTJ perspective of the role of the musician"
 date: "2017-01-03 17:31:02 +0000"
 ---
 
-Entertainment weekly has a nice [interview](http://ew.com/music/2017/01/03/run-the-jewels-3-trump/) of El-P and Killer Mike from Run the Jewels. It's interesting to see how they identify their role in the world in a fairly realistic way, as sort of providing a soundtrack and inspiration for you to do you.
+Entertainment weekly has a nice [interview](http://ew.com/music/2017/01/03/run-the-jewels-3-trump/) of El-P and Killer Mike from Run the Jewels. It's interesting to see how they identify their role in the world in a fairly realistic way, as sort of providing a soundtrack and inspiration for you to do you, despite opposition.
 
 >Run the Jewels, our role is this: We can provide some music and some swagger in the face of doom and in the face of seemingly insurmountable odds. No one can tell you what the f— you’re gonna do with your life. No one can stop you from taking what’s yours.  I’m not talking about material s—, I’m talking about your soul, I’m talking about your joy, I’m talking about your life. Motherf—ers are mistaken if they think they’re gonna crush anyone’s spirit. That’s really what Run the Jewels is about.
 
