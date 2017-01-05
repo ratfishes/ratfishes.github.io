@@ -25,7 +25,7 @@ THE SOFTWARE. -->
 <!-- Uses the Jekyll theme vida (https://github.com/syaning/vida). -->
 <html lang="en">
 <head>
-  
+
   <!-- Favicon is a cropped version of the photograph [*Spotted Ratfish*]((https://www.flickr.com/photos/ratha/18638508729/)) by Ratha Grimes, 2015 ([CC BY  2.0](https://creativecommons.org/licenses/by/2.0/)). Compressed and resized for the web.-->
   {% capture html %}
   <link rel="apple-touch-icon" sizes="180x180" href="{{ "/apple-touch-icon.png" | prepend: site.baseurl }}">
@@ -46,6 +46,15 @@ THE SOFTWARE. -->
     {% include critical.scss %}
     {% endcapture %}
     {{ include_to_scssify | scssify }}
+
+    {% if page.syntax %}
+
+    {% capture include_to_scssify %}
+    {% include syntax.scss %}
+    {% endcapture %}
+    {{ include_to_scssify | scssify }}
+
+    {% endif %}
     </style>
     {% endcapture %}{{ html | strip_newlines | replace:'	','' | replace:'    ','' | replace:'  ',' ' }}
 
@@ -99,7 +108,6 @@ THE SOFTWARE. -->
     {% endif %}
 </body>
 
-<link rel="stylesheet" href="{{ site.baseurl }}/css/main.css">
 
 
 </html>
