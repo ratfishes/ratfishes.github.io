@@ -25,8 +25,17 @@ THE SOFTWARE. -->
 <!-- Uses the Jekyll theme vida (https://github.com/syaning/vida). -->
 <html lang="en">
 <head>
-  <!-- Favicon is a cropped version of the photograph [*Spotted Ratfish*]((https://www.flickr.com/photos/ratha/18638508729/)) by Ratha Grimes, 2015 ([CC BY  2.0](https://creativecommons.org/licenses/by/2.0/)).-->
-    <link rel="shortcut icon" type="image/png" href="{{ "/favicon.png" | prepend: site.baseurl }}" >
+  <!-- Favicon is a cropped version of the photograph [*Spotted Ratfish*]((https://www.flickr.com/photos/ratha/18638508729/)) by Ratha Grimes, 2015 ([CC BY  2.0](https://creativecommons.org/licenses/by/2.0/)). Compressed and resized for the web.-->
+    <!-- <link rel="shortcut icon" type="image/png" href="{{ "/favicon.png" | prepend: site.baseurl }}" > -->
+
+    <link rel="apple-touch-icon" sizes="180x180" href="{{ "/apple-touch-icon.png" | prepend: site.baseurl }}">
+<link rel="icon" type="image/png" href="{{ "/favicon-32x32.png" | prepend: site.baseurl }}" sizes="32x32">
+<link rel="icon" type="image/png" href="{{ "/favicon-16x16.png" | prepend: site.baseurl }}"  sizes="16x16">
+<link rel="manifest"  href="{{ "/manifest.json" | prepend: site.baseurl }}" >
+<link rel="mask-icon" href="{{ "/safari-pinned-tab.svg" | prepend: site.baseurl }}"  color="#5bbad5">
+
+
+
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="{{ site.baseurl }}/css/main.css">
