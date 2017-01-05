@@ -25,23 +25,34 @@ THE SOFTWARE. -->
 <!-- Uses the Jekyll theme vida (https://github.com/syaning/vida). -->
 <html lang="en">
 <head>
+  
   <!-- Favicon is a cropped version of the photograph [*Spotted Ratfish*]((https://www.flickr.com/photos/ratha/18638508729/)) by Ratha Grimes, 2015 ([CC BY  2.0](https://creativecommons.org/licenses/by/2.0/)). Compressed and resized for the web.-->
-    <!-- <link rel="shortcut icon" type="image/png" href="{{ "/favicon.png" | prepend: site.baseurl }}" > -->
-
-    <link rel="apple-touch-icon" sizes="180x180" href="{{ "/apple-touch-icon.png" | prepend: site.baseurl }}">
-<link rel="icon" type="image/png" href="{{ "/favicon-32x32.png" | prepend: site.baseurl }}" sizes="32x32">
-<link rel="icon" type="image/png" href="{{ "/favicon-16x16.png" | prepend: site.baseurl }}"  sizes="16x16">
-<link rel="manifest"  href="{{ "/manifest.json" | prepend: site.baseurl }}" >
-<link rel="mask-icon" href="{{ "/safari-pinned-tab.svg" | prepend: site.baseurl }}"  color="#5bbad5">
+  {% capture html %}
+  <link rel="apple-touch-icon" sizes="180x180" href="{{ "/apple-touch-icon.png" | prepend: site.baseurl }}">
+  <link rel="icon" type="image/png" href="{{ "/favicon-32x32.png" | prepend: site.baseurl }}" sizes="32x32">
+  <link rel="icon" type="image/png" href="{{ "/favicon-16x16.png" | prepend: site.baseurl }}"  sizes="16x16">
+  <link rel="manifest"  href="{{ "/manifest.json" | prepend: site.baseurl }}" >
+  <link rel="mask-icon" href="{{ "/safari-pinned-tab.svg" | prepend: site.baseurl }}"  color="#5bbad5">
+  {% endcapture %}{{ html | strip_newlines | replace:'	','' | replace:'    ','' | replace:'  ',' ' }}
 
 
 
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" href="{{ site.baseurl }}/css/main.css">
+
+    {% capture html %}
+    <style type="text/css">
+    {% capture include_to_scssify %}
+    {% include critical.scss %}
+    {% endcapture %}
+    {{ include_to_scssify | scssify }}
+    </style>
+    {% endcapture %}{{ html | strip_newlines | replace:'	','' | replace:'    ','' | replace:'  ',' ' }}
+
+
     <title>{{ site.title }}</title>
 
-
+    {% capture html %}
     <meta property="og:title"
     content="{% if page.title %}
       {{ page.title | strip_html | strip_newlines | truncate: 160 }}
@@ -65,6 +76,7 @@ THE SOFTWARE. -->
 
       <meta name="twitter:site" content="@ratfishes_" />
       <meta name="twitter:card" content="summary" />
+      {% endcapture %}{{ html | strip_newlines | replace:'	','' | replace:'    ','' | replace:'  ',' ' }}
 
 
 </head>
@@ -72,10 +84,6 @@ THE SOFTWARE. -->
     <main>
         <header class="site-header">
             <h1 class="site-title"><a href="{{ site.baseurl }}/">{{ site.title }}</a></h1>
-            <!-- <nav class="site-nav">
-                <a href="{{ site.baseurl }}/sample/" class="{% if page.url == '/sample/' %}active{% endif %}">Sample</a>
-                <a href="{{ site.baseurl }}/about/" class="{% if page.url == '/about/' %}active{% endif %}">About</a>
-            </nav> -->
         </header>
         {{ content }}
     </main>
@@ -90,4 +98,8 @@ THE SOFTWARE. -->
     </script>
     {% endif %}
 </body>
+
+<link rel="stylesheet" href="{{ site.baseurl }}/css/main.css">
+
+
 </html>
