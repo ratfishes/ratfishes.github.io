@@ -11,7 +11,7 @@ date: "2017-02-12 16:15:00 +0000"
 
 She continues by considering companionship.
 
-In the comments of an Arstechnica article on Prince's estate licensing his music to streaming services, editor Lee Hutchinson made [some useful remarks](https://arstechnica.co.uk/business/2017/02/prince-on-spotify/?comments=1&post=32803771) ([archive](https://web.archive.org/web/20170212163447/https://arstechnica.co.uk/business/2017/02/prince-on-spotify/?comments=1&post=32803771)) on the purpose of copyright law. Hutchinson points out that
+In the comments of an [Ars Technica article](https://arstechnica.co.uk/business/2017/02/prince-on-spotify) on Prince's estate licensing his music to streaming services, editor Lee Hutchinson made [some useful remarks](https://arstechnica.co.uk/business/2017/02/prince-on-spotify/?comments=1&post=32803771) ([archive](https://web.archive.org/web/20170212163447/https://arstechnica.co.uk/business/2017/02/prince-on-spotify/?comments=1&post=32803771)) on the purpose of copyright law. Hutchinson points out that
 
 >Good for him that he insisted on controlling his copyright with an iron fist, but it was bad for the enrichment of the world as a whole. Prince, like so many other copyright owners, missed the true purpose of copyright: to grant control of distribution of a work for a limited time to incent creators, and then to allow the work to pass into the public domain and thereby enrich the world's collective of freely-accessible culture and entertainment.
 
