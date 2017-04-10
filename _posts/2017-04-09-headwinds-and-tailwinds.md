@@ -37,6 +37,6 @@ By the way, dear reader, this post has an interpretation relating to a prior sub
 
 but on April 7, there was only the announcement that his album would be released on April 14, instead of the release itself. We must be strong in the face of this blow, and remember to be grateful for the existence of Mr. Lamar, and the gift of another studio album.
 
-    [^1]: at the recommendation of a [tweet](https://twitter.com/maxcroser/status/851127965970821120) by Max Rosner
+  [^1]: at the recommendation of a [tweet](https://twitter.com/maxcroser/status/851127965970821120) by Max Rosner
 
-    [^2]: We should not be tricked into thinking this is the inevitable progress of humanity: history has been erratic and uncertain in stepping forward. I'm interested in learning and writing more about this if I get the chance.
+  [^2]: We should not be tricked into thinking this is the inevitable progress of humanity: history has been erratic and uncertain in stepping forward. I'm interested in learning and writing more about this if I get the chance
