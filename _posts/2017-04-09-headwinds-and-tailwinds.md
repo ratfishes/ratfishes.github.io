@@ -39,4 +39,4 @@ but on April 7, there was only the announcement that his album would be released
 
   [^1]: at the recommendation of a [tweet](https://twitter.com/maxcroser/status/851127965970821120) by Max Rosner
 
-  [^2]: We should not be tricked into thinking this is the inevitable progress of humanity: history has been erratic and uncertain in stepping forward. I'm interested in learning and writing more about this if I get the chance
+  [^2]: We should not be tricked into thinking this is the inevitable progress of humanity: history has been erratic and uncertain in stepping forward. I'm interested in learning and writing more about this if I get the chance.
